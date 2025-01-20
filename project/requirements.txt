@@ -3,3 +3,4 @@ uvicorn
 aiohttp
 asyncio
 pydantic
+sqlalchemy
