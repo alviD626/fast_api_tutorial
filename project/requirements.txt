@@ -4,3 +4,5 @@ aiohttp
 asyncio
 pydantic
 sqlalchemy
+passlib
+bcrypt
